@@ -1,2 +1,3 @@
 Scrapy>=1.0.2
 Scrapyd>=1.2.0
+Scrapy-heroku>=0.7.1
